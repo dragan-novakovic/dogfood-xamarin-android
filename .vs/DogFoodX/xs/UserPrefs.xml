@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{5B4ED797-F712-4D18-AD15-A45928871B2A}|Default">
+  <MonoDevelop.Ide.ItemProperties.DogFoodX PreferredExecutionTarget="Android.Pixel_3a_API_31_arm64-v8a" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DogFoodX/MainActivity.cs">
+    <Files>
+      <File FileName="DogFoodX/MainActivity.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DogFoodX" expanded="True">
+            <Node name="DogFoodX" expanded="True">
+              <Node name="Packages" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="MainActivity.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
